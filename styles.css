@@ -1,9 +1,5 @@
 /* Building the portrait - main stylings */
-.canvas {
-    width: 500px;
-    height: 600px;
-    background-color: #4d0f00;
-    overflow: hidden;
+
     .canvas {
         width: 500px;
         height: 600px;
